@@ -3,8 +3,8 @@
         "branch": "origin/master",
         "ref": null,
         "targets": {
-            ".": [
-                "externals/Submain"
+            "externals/Submain": [
+                "."
             ]
         },
         "vcs": "git"
