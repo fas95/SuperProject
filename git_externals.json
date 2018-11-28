@@ -3,8 +3,8 @@
         "branch": "origin/master",
         "ref": null,
         "targets": {
-            "shared/": [
-                "e1/"
+            "C:/Program Files/Git/": [
+                "External1"
             ]
         },
         "vcs": "git"
