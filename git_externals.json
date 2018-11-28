@@ -4,7 +4,7 @@
         "ref": null,
         "targets": {
             "shared/": [
-                "e1"
+                "e1/"
             ]
         },
         "vcs": "git"
