@@ -1,10 +1,10 @@
 {
     "https://github.com/fas95/Submain": {
-        "branch": "origin/master",
+        "branch": "feature",
         "ref": null,
         "targets": {
-            "externals/Submain": [
-                "."
+            ".": [
+                "externals/Submain"
             ]
         },
         "vcs": "git"
