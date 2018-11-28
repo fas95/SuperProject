@@ -1,0 +1,12 @@
+{
+    "https://github.com/fas95/Submain": {
+        "branch": "origin/master",
+        "ref": null,
+        "targets": {
+            "shared/": [
+                "e1"
+            ]
+        },
+        "vcs": "git"
+    }
+}
