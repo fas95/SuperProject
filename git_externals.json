@@ -3,6 +3,9 @@
         "branch": "master",
         "ref": null,
         "targets": {
+            ".": [
+                "submodule2_test"
+            ],
             "./README.md": [
                 "submodule2"
             ]
