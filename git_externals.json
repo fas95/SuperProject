@@ -1,0 +1,12 @@
+{
+    "https://github.com/fas95/Submodule2": {
+        "branch": "master",
+        "ref": null,
+        "targets": {
+            "folder/": [
+                "submodule2"
+            ]
+        },
+        "vcs": "git"
+    }
+}
