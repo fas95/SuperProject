@@ -1,4 +1,14 @@
 {
+    "https://github.com/fas95/Submain": {
+        "branch": "master",
+        "ref": null,
+        "targets": {
+            "folder/": [
+                "submainlink"
+            ]
+        },
+        "vcs": "git"
+    },
     "https://github.com/fas95/Submodule2": {
         "branch": "master",
         "ref": null,
