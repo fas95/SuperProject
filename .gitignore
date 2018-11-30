@@ -5,7 +5,7 @@
 
 #git externals
 *.git_externals/
-*symlink
+*link
 
 # User-specific files
 *.suo
